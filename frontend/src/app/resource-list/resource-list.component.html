@@ -1,0 +1,29 @@
+<app-home></app-home>
+<div class="container my-5">
+  <h1 class="mb-3">Resources</h1>
+
+  <table class="table" *ngIf="resources && resources.length > 0">
+      <thead>
+          <tr>
+              <!-- <th>Id</th>
+              <th>Resource Id</th> -->
+              <th>Name</th>
+              <th>Type</th>
+              <th>Location</th>
+          </tr>
+         </thead>
+
+       <tbody>
+	   <tr *ngFor="let resource of resources">
+      <!-- <td>{{ resource.id }}</td>
+              <td>{{ resource.resourceid }}</td> -->
+              <td>{{ resource.name }}</td>
+              <td>{{ resource.type }}</td>
+              <td>{{ resource.location }}</td>
+           </tr>
+         </tbody>
+
+  </table>
+
+  <p *ngIf="!resources || resources.length <= 0">No Resources found</p>
+</div>
