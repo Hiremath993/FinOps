@@ -1,0 +1,66 @@
+<div class="header">
+
+  <h2><img src="https://companieslogo.com/img/orig/CAP.PA-9b4110b0.png?t=1651902188" width="20" height="20">FinOps</h2>
+
+  </div>
+
+<mat-card id="ctrlspecbuilder">
+  <div class="container-tab mat-elevation-z8">
+    <mat-card-content>
+      <form (ngSubmit)="verifySubcription()" #subscriptionForm="ngForm">
+        <h1>Subscription Input</h1>
+        <div class="example-container">
+          <mat-form-field appearance="fill">
+            <mat-label>Client ID:</mat-label>
+            <input matInput name="clientId" id="clientId" required [(ngModel)]="subscriptionData.clientId" #clientId="ngModel">
+            <mat-error *ngIf="clientId.invalid && (clientId.dirty || clientId.touched)">
+              Client ID is required.
+            </mat-error>
+          </mat-form-field>
+        </div>
+        <div class="example-container">
+          <mat-form-field appearance="fill">
+            <mat-label>Tenant ID:</mat-label>
+            <input matInput name="tenantId" id="tenantId" required [(ngModel)]="subscriptionData.tenantId" #tenantId="ngModel">
+            <mat-error *ngIf="tenantId.invalid && (tenantId.dirty || tenantId.touched)">
+              Tenant ID is required.
+            </mat-error>
+          </mat-form-field>
+        </div>
+        <div class="example-container">
+          <mat-form-field appearance="fill">
+            <mat-label>Client Secret:</mat-label>
+            <input matInput name="clientSecret" id="clientSecret" required [(ngModel)]="subscriptionData.clientSecret" #clientSecret="ngModel">
+            <mat-error *ngIf="clientSecret.invalid && (clientSecret.dirty || clientSecret.touched)">
+              Client Secret is required.
+            </mat-error>
+          </mat-form-field>
+        </div>
+        <div class="example-container">
+          <mat-form-field appearance="fill">
+            <mat-label>Subscription ID:</mat-label>
+            <input matInput name="subscriptionId" id="subscriptionId" required [(ngModel)]="subscriptionData.subscriptionId" #subscriptionId="ngModel">
+            <mat-error *ngIf="subscriptionId.invalid && (subscriptionId.dirty || subscriptionId.touched)">
+              Subscription ID is required.
+            </mat-error>
+          </mat-form-field>
+        </div>
+        <div class="example-container">
+          <button type="submit" mat-raised-button color="primary" [disabled]="!subscriptionForm.form.valid">Verify Subscription</button>
+        </div>
+        <br>
+        <div class="example-container">
+          <button type="submit" mat-raised-button color="primary" [disabled]="!subscriptionForm.form.valid" routerLink="/home">home</button>
+        </div>
+      </form>
+      <p [ngStyle]="{ 'color': verificationStatus === 'Subscription exists' ? 'green' : 'red' }">{{ verificationStatus }}</p>
+    </mat-card-content>
+  </div>
+</mat-card>
+
+
+<footer class="footer fixed-bottom text-center">
+  <div className="col-md-4 d-flex align-items-center">
+    <img src="https://companieslogo.com/img/orig/CAP.PA-9b4110b0.png?t=1651902188" width="20" height="20" className="cg-foot-logo mb-2"/>&nbsp; 2023 Capgemini. All rights reserved.
+</div>
+</footer>
