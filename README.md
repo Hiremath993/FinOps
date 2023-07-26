@@ -1,4 +1,4 @@
-<img width="666" alt="image" src="https://github.com/Hiremath993/FinOps/assets/114656867/8b2b240b-9b53-4b99-a846-33c07b720c97"># NewProject
+# NewProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.13.0.
 
