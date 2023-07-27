@@ -1,0 +1,376 @@
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\appsettings.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Finops.exe
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Finops.deps.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Finops.runtimeconfig.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Finops.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Finops.pdb
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets\msbuild.Finops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets\msbuild.build.Finops.props
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finops.props
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finops.props
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\scopedcss\bundle\Finops.styles.css
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.csproj.CopyComplete
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\refint\Finops.dll
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.pdb
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\Finops.genruntimeconfig.cache
+C:\Users\DEEPICHO\source\repos\Finops\Finops\obj\Debug\net6.0\ref\Finops.dll
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DEEPICHO\source\repos\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.exe
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.deps.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.runtimeconfig.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.pdb
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.Finops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.build.Finops.props
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finops.props
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finops.props
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\scopedcss\bundle\Finops.styles.css
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CopyComplete
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\refint\Finops.dll
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.pdb
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.genruntimeconfig.cache
+C:\Users\pchatne\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\ref\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.exe
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.deps.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.runtimeconfig.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.pdb
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.Finops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.build.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\scopedcss\bundle\Finops.styles.css
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CopyComplete
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\refint\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.pdb
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.genruntimeconfig.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\ref\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.exe
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.deps.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.runtimeconfig.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.pdb
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.Finops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.build.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finops.props
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\scopedcss\bundle\Finops.styles.css
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CopyComplete
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\refint\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.pdb
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.genruntimeconfig.cache
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\ref\Finops.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Azure.ResourceManager.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\MailKit.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\MimeKit.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SHWHIREM\Downloads\Finops - Copy (3) (1)\Finops - Copy (2) (1)\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\appsettings.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.exe
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.deps.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.runtimeconfig.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Finops.pdb
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Azure.ResourceManager.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\MailKit.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\MimeKit.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.AssemblyReference.cache
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfoInputs.cache
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.AssemblyInfo.cs
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CoreCompileInputs.cache
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.Finops.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.build.Finops.props
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Finops.props
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Finops.props
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\scopedcss\bundle\Finops.styles.css
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.csproj.CopyComplete
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\refint\Finops.dll
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.pdb
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\Finops.genruntimeconfig.cache
+C:\Users\sashahi\Downloads\Finops - Copy\Finops - Copy\Finops\obj\Debug\net6.0\ref\Finops.dll
